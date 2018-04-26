@@ -41,7 +41,7 @@ window.onload = function() {
 <div class="sub_head">Internship</div>
   <div><p>&lt;letsCode/&gt;</p></div>
 <div id="clock" class="time">Time</div>
-<!--<div class="time"><?php echo date('H:i'); ?></div> // wanted a ticking time -->
+
 
 
              
