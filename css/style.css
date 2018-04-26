@@ -1,0 +1,82 @@
+
+body{background-color:#000000}
+div{
+  
+
+  text-align:center;
+ 
+}
+
+.heading{
+position:abolute; 
+margin-top: 100px;  
+font-family: 'Marvel', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 92px;
+letter-spacing: 0.2em;
+
+color: #F2F2F2;
+
+}
+
+.sub_head{
+  /* Rectangle */
+
+
+
+/* Internship */
+
+
+font-family: 'Jura', sans-serif;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+letter-spacing: 0.5em;
+
+color: #F2F2F2;
+margin-bottom: 100px;  
+
+}
+
+div>p{
+  /* <letsCode/> */
+  
+font-family: 'Orbitron', sans-serif;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 48px;
+background-color: #178028;
+color:#F2F2F2;
+display: inline-block;
+  padding: 15px;
+  
+
+}
+
+.time{
+  /* 12.00am */
+margin-top:100px;
+height: 35px;
+
+font-family: 'Iceland', cursive;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 64px;
+letter-spacing: 0.1em;
+
+color: #F2F2F2;
+height: 73px;
+
+
+
+
+}
+
+
+
+
